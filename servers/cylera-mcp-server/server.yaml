@@ -12,7 +12,7 @@ about:
   icon: https://github.com/Cylera/cylera-mcp-server/blob/main/assets/cylera_logo.png?raw=true
 source:
   project: https://github.com/Cylera/cylera-mcp-server
-  commit: aca7cc7492981d8e1bf7c366a826630b55c3f5ee
+  commit: ba5f5a7dd04c94bb74115047d727c3cbd2a87165
 config:
   description: Configure the connection to the official MCP Server for Cylera.
   secrets:
